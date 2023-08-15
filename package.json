@@ -1,0 +1,17 @@
+{
+  "name": "vdot",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Dr. Daniels VDOT calculator",
+  "homepage": "https://github.com/brianddk/vdot",
+  "license": "Apache-2.0",
+  "author": "brianddk <brianddk@users.noreply.github.com> (https://brianddk.github.io/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianddk/vdot.git"
+  },
+  "dependencies": {
+    "npm": "9.8.1",
+    "daniels-calculator": "1.0.10"
+  }
+}
